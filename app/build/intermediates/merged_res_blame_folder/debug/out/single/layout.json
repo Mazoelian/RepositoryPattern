@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Kuliah\\Semester 5\\Pemograman Mobile\\android-kotlin-fundamentals-starter-apps-master\\DevBytes-starter\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\devbyte_item.xml",
+        "source": "D:\\Kuliah\\Semester 5\\Pemograman Mobile\\android-kotlin-fundamentals-starter-apps-master\\DevBytes-starter\\app\\src\\main\\res\\layout\\devbyte_item.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\Semester 5\\Pemograman Mobile\\android-kotlin-fundamentals-starter-apps-master\\DevBytes-starter\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_dev_byte.xml",
+        "source": "D:\\Kuliah\\Semester 5\\Pemograman Mobile\\android-kotlin-fundamentals-starter-apps-master\\DevBytes-starter\\app\\src\\main\\res\\layout\\fragment_dev_byte.xml"
+    }
+]
